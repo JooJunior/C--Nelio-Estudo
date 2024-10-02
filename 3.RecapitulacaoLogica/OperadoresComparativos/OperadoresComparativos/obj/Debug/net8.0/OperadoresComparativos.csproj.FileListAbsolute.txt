@@ -1,0 +1,14 @@
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/bin/Debug/net8.0/OperadoresComparativos
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/bin/Debug/net8.0/OperadoresComparativos.deps.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/bin/Debug/net8.0/OperadoresComparativos.runtimeconfig.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/bin/Debug/net8.0/OperadoresComparativos.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/bin/Debug/net8.0/OperadoresComparativos.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/obj/Debug/net8.0/OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/obj/Debug/net8.0/OperadoresComparativos.AssemblyInfoInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/obj/Debug/net8.0/OperadoresComparativos.AssemblyInfo.cs
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/obj/Debug/net8.0/OperadoresComparativos.csproj.CoreCompileInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/obj/Debug/net8.0/OperadoresComparativos.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/obj/Debug/net8.0/refint/OperadoresComparativos.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/obj/Debug/net8.0/OperadoresComparativos.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/obj/Debug/net8.0/OperadoresComparativos.genruntimeconfig.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/OperadoresComparativos/OperadoresComparativos/obj/Debug/net8.0/ref/OperadoresComparativos.dll

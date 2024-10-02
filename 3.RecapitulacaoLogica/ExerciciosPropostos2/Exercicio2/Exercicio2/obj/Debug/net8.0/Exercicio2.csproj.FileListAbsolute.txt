@@ -1,0 +1,14 @@
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/bin/Debug/net8.0/Exercicio2
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/bin/Debug/net8.0/Exercicio2.deps.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/bin/Debug/net8.0/Exercicio2.runtimeconfig.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/bin/Debug/net8.0/Exercicio2.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/bin/Debug/net8.0/Exercicio2.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/obj/Debug/net8.0/Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/obj/Debug/net8.0/Exercicio2.AssemblyInfoInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/obj/Debug/net8.0/Exercicio2.AssemblyInfo.cs
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/obj/Debug/net8.0/Exercicio2.csproj.CoreCompileInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/obj/Debug/net8.0/Exercicio2.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/obj/Debug/net8.0/refint/Exercicio2.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/obj/Debug/net8.0/Exercicio2.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/obj/Debug/net8.0/Exercicio2.genruntimeconfig.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/ExerciciosPropostos2/Exercicio2/Exercicio2/obj/Debug/net8.0/ref/Exercicio2.dll

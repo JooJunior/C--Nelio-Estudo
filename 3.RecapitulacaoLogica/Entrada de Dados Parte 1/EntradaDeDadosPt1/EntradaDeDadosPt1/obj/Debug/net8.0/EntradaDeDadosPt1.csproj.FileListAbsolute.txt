@@ -1,0 +1,14 @@
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/bin/Debug/net8.0/EntradaDeDadosPt1
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/bin/Debug/net8.0/EntradaDeDadosPt1.deps.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/bin/Debug/net8.0/EntradaDeDadosPt1.runtimeconfig.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/bin/Debug/net8.0/EntradaDeDadosPt1.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/bin/Debug/net8.0/EntradaDeDadosPt1.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/obj/Debug/net8.0/EntradaDeDadosPt1.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/obj/Debug/net8.0/EntradaDeDadosPt1.AssemblyInfoInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/obj/Debug/net8.0/EntradaDeDadosPt1.AssemblyInfo.cs
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/obj/Debug/net8.0/EntradaDeDadosPt1.csproj.CoreCompileInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/obj/Debug/net8.0/EntradaDeDadosPt1.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/obj/Debug/net8.0/refint/EntradaDeDadosPt1.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/obj/Debug/net8.0/EntradaDeDadosPt1.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/obj/Debug/net8.0/EntradaDeDadosPt1.genruntimeconfig.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/Entrada de Dados Parte 1/EntradaDeDadosPt1/EntradaDeDadosPt1/obj/Debug/net8.0/ref/EntradaDeDadosPt1.dll

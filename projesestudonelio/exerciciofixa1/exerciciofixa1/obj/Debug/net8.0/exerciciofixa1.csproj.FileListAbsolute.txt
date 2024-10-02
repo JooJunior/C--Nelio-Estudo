@@ -1,0 +1,14 @@
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/bin/Debug/net8.0/exerciciofixa1
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/bin/Debug/net8.0/exerciciofixa1.deps.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/bin/Debug/net8.0/exerciciofixa1.runtimeconfig.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/bin/Debug/net8.0/exerciciofixa1.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/bin/Debug/net8.0/exerciciofixa1.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/obj/Debug/net8.0/exerciciofixa1.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/obj/Debug/net8.0/exerciciofixa1.AssemblyInfoInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/obj/Debug/net8.0/exerciciofixa1.AssemblyInfo.cs
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/obj/Debug/net8.0/exerciciofixa1.csproj.CoreCompileInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/obj/Debug/net8.0/exerciciofixa1.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/obj/Debug/net8.0/refint/exerciciofixa1.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/obj/Debug/net8.0/exerciciofixa1.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/obj/Debug/net8.0/exerciciofixa1.genruntimeconfig.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/exerciciofixa1/exerciciofixa1/obj/Debug/net8.0/ref/exerciciofixa1.dll

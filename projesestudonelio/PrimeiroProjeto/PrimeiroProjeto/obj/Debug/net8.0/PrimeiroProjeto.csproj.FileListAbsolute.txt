@@ -1,0 +1,14 @@
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.deps.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.runtimeconfig.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.AssemblyInfo.cs
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/refint/PrimeiroProjeto.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.genruntimeconfig.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/ref/PrimeiroProjeto.dll

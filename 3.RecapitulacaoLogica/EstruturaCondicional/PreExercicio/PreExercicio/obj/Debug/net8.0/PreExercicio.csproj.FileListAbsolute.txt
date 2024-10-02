@@ -1,0 +1,14 @@
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/obj/Debug/net8.0/PreExercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/obj/Debug/net8.0/PreExercicio.AssemblyInfoInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/obj/Debug/net8.0/PreExercicio.AssemblyInfo.cs
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/obj/Debug/net8.0/PreExercicio.csproj.CoreCompileInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/bin/Debug/net8.0/PreExercicio
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/bin/Debug/net8.0/PreExercicio.deps.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/bin/Debug/net8.0/PreExercicio.runtimeconfig.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/bin/Debug/net8.0/PreExercicio.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/bin/Debug/net8.0/PreExercicio.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/obj/Debug/net8.0/PreExercicio.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/obj/Debug/net8.0/refint/PreExercicio.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/obj/Debug/net8.0/PreExercicio.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/obj/Debug/net8.0/PreExercicio.genruntimeconfig.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/3.RecapitulacaoLogica/EstruturaCondicional/PreExercicio/PreExercicio/obj/Debug/net8.0/ref/PreExercicio.dll

@@ -1,0 +1,14 @@
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/bin/Debug/net8.0/Course
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/bin/Debug/net8.0/Course.deps.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/bin/Debug/net8.0/Course.runtimeconfig.json
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/bin/Debug/net8.0/Course.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/bin/Debug/net8.0/Course.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/obj/Debug/net8.0/Course.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/obj/Debug/net8.0/Course.AssemblyInfoInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/obj/Debug/net8.0/Course.AssemblyInfo.cs
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/obj/Debug/net8.0/Course.csproj.CoreCompileInputs.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/obj/Debug/net8.0/Course.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/obj/Debug/net8.0/refint/Course.dll
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/obj/Debug/net8.0/Course.pdb
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/obj/Debug/net8.0/Course.genruntimeconfig.cache
+/home/junior/Área de Trabalho/C# Completo - NELIO/projesestudonelio/Course/Course/obj/Debug/net8.0/ref/Course.dll
